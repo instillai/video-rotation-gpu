@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------
 
 This tutorial deals with video rotation using GPU accelerated libraries
-supported by FFMPEG in Ubuntu 16.04. The code here belongs to ["Rotation of Video using FFmpeg With NVIDIA GPU Acceleration on Ubuntu"](http://machinelearninguru.com/computer_vision/video_processing/ffmpeg_rotate_video/rotate.html) post.
+supported by FFMPEG in Ubuntu 16.04. The code here belongs to ["GPU Based Video Rotation Using Python on Ubuntu"](https://machinelearningmindset.com/gpu-based-video-rotation-ffmpeg/) post.
 <!--    #######################  ####################### ####################### #######################            -->
 <!--    #######################  ####################### ####################### #######################            -->
 <!--    #######################  ####################### ####################### #######################            -->
